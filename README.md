@@ -1,9 +1,5 @@
 ### goit-js-hw-07
 
-## JavaScript course homework. Document Object Model. Event propagation. Event bubbling. Throttle &amp; Debounce. Lazysizes
-
-[![Image from Gyazo](https://i.gyazo.com/6d10d7c2a1e6beaf9d97cd7ae1a049db.png)](https://gyazo.com/6d10d7c2a1e6beaf9d97cd7ae1a049db)
-
 ## Задание 1 - галерея изображений
 
 Создай галерею с возможностью клика по ее элементам и просмотра полноразмерного изображения в модальном окне. Посмотри демо видео работы галереи.
